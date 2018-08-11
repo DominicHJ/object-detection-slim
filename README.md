@@ -1,1 +1,1 @@
-# object-detection-slim-1
+# object-detection-slim
